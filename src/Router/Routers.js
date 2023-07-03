@@ -1,9 +1,9 @@
 
 
 import React from "react";
-import Home from "../pages/Home";
-import Signin from "../pages/Signin";
-import CreateField from "../pages/CreateField";
+import Home from "../pages/Home.tsx";
+import Signin from "../pages/Signin.tsx";
+import CreateField from "../pages/CreateField.tsx";
 
 import { Routes, Route, Navigate } from "react-router-dom";
 

@@ -1,25 +1,40 @@
 import React from 'react';
 import { useState } from 'react';
-import edu_icon from  '../../assets/img/edu_icon.png';
-import account_icon from '../../assets/img/user_2.png';
+const edu_icon =require  ("../../assets/img/edu_icon.png");
+const account_icon = require ('../../assets/img/user_2.png');
 
 const navLinks = [
     {
       display: "Home",
-      url: "#",
+      url: "/home",
     },
+    {
+        display: "Company",
+        url: "/company",
+      },
     {
       display: "About",
-      url: "#",
+      url: "/about",
     },
-  
     {
-      display: "Add State",
-      url: "#",
+        display: "Marketplace",
+        url: "/marketplace",
+      },
+      {
+        display: "Features",
+        url: "/features",
+      },
+    {
+      display: "Team",
+      url: "/team",
     },
+    {
+        display: "Contact",
+        url: "/contact",
+      },
     {
       display: "Sign in",
-      url: "#",
+      url: "/signin",
     }
   ];
 const Header = () => {
