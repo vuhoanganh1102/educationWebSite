@@ -9,35 +9,35 @@ const Products =[
     },
     {
         title:'Vinh Nguyen',
-        state:"sn: 1 11 2002. Idol PTIT"
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     },
     {
         title:"Vinh Nguyen",
-        state:"sn: 1 11 2002. Idol PTIT"
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+    },
+    {
+        title:"Vu Hoang Anh",
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+    },
+    {
+        title:"Vu Hoang Anh",
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     },
     {
         title:"Vinh Nguyen",
-        state:"yeu Chi. Idol PTIT"
-    },
-    {
-        title:"Vinh Nguyen",
-        state:"yeu huyen. Idol PTIT"
-    },
-    {
-        title:"Vinh Nguyen",
-        state:"sn: 1 11 2002. Idol PTIT"
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     },
     {
         title:"Tuan anh Le",
-        state:"sn: ....? . Cung la Idol PTIT"
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     },
     {
         title:"Tuan anh Le",
-        state:"sn: ...? . Cung la Idol PTIT. Yeu Thuy."
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     },
     {
-        title:"Tuan anh Le",
-        state:"sn: ...? . Cung la Idol PTIT. Yeu Thuy."
+        title:"Vu Hoang Anh",
+        state:"Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
     }
 
 ];
